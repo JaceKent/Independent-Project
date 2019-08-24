@@ -30,8 +30,8 @@ _If any problems or concerns arise, please feel free to call Jenny @ 867-5309_
 * _CSS_
 * _Bootstrap_
 
-### License
+### Copyright (c) 2019 Copyright Holder All Rights Reserved.
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licensed under the Mit license.*
 
 Copyright (c) 2019 **_Jason Bissonnette_**
