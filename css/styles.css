@@ -4,5 +4,29 @@ h1 {
     font-style: italic;
 }
 img {
-  float: centered;
+  float: center;
+  border-color: black;
+}
+li {
+  font-size: 40:
+}
+body {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+h2 {
+  text-align: center;
+  text-color: red;
+}
+body {
+ background-image: url("img/Sunset.jpg");
+ background-color: #cccccc;
+}
+p {
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+a {
+  image-orientation: center;
 }
